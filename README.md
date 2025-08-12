@@ -1,2 +1,2 @@
 # public
-For testing purposes, 404 html and stuff
+For testing purposes :D
